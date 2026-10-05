@@ -36,6 +36,35 @@ python port_scanner.py --ip 127.0.0.1 --port 22 80 443
 * Python 3.x
 * No external libraries required
 
+## Installation
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/YOUR-USERNAME/python-port-scanner.git
+cd python-port-scanner
+```
+
+### 2. Check Python is installed
+
+```bash
+python --version
+```
+
+### 3. Run the program
+
+To scan default ports:
+
+```bash
+python port_scanner.py --ip 127.0.0.1
+```
+
+To scan specific ports:
+
+```bash
+python port_scanner.py --ip 127.0.0.1 --port 22 80 443
+```
+
 ## Disclaimer
 
 This project was created for educational purposes and authorized security testing.
