@@ -2,6 +2,8 @@
 
 A simple TCP port scanner written in Python using the built-in `socket` and `argparse` libraries.
 
+And My First Project
+
 ## Features
 
 * Scans common ports by default
