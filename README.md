@@ -16,13 +16,13 @@ And My First Project
 ### Scan default ports
 
 ```bash
-python port_scanner.py --ip 127.0.0.1
+python PortScannerV1.py --ip 127.0.0.1
 ```
 
 ### Scan specific ports
 
 ```bash
-python port_scanner.py --ip 127.0.0.1 --port 22 80 443
+python PortScannerV1.py --ip 127.0.0.1 --port 22 80 443
 ```
 
 ### Example
@@ -43,8 +43,8 @@ python port_scanner.py --ip 127.0.0.1 --port 22 80 443
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/python-port-scanner.git
-cd python-port-scanner
+git clone https://github.com/R3dbu110/PortScannerV1.py.git
+cd PortScannerV1.py
 ```
 
 ### 2. Check Python is installed
@@ -58,13 +58,13 @@ python --version
 To scan default ports:
 
 ```bash
-python port_scanner.py --ip 127.0.0.1
+python PortScannerV1.py --ip 127.0.0.1
 ```
 
 To scan specific ports:
 
 ```bash
-python port_scanner.py --ip 127.0.0.1 --port 22 80 443
+python PortScannerV1.py --ip 127.0.0.1 --port 22 80 443
 ```
 
 ## Disclaimer
