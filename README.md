@@ -43,8 +43,8 @@ python PortScannerV1.py --ip 127.0.0.1 --port 22 80 443
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/R3dbu110/PortScannerV1.py.git
-cd PortScannerV1.py
+git clone https://github.com/R3dbu110/PortScannerV1.git
+cd PortScannerV1
 ```
 
 ### 2. Check Python is installed
